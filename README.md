@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode:default(a8daf9)&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode:default(ffffff)&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **B-KJS26/B-KJS26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
