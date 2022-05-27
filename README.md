@@ -12,7 +12,7 @@
    
    
 <p align="center">
-    <Strong>⚒️My Tech⚒️</Strong><br>
+    <Strong>⚒️My frequently Tech⚒️</Strong><br>
      ✨- main -✨
    </p>
     <p align="center" display="inline-block">
