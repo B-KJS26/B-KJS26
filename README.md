@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Flutter-A8DAF9?style=for-the-badge&logo=Flutter&logoColor="white">
         <img src="https://img.shields.io/badge/HTML5-4479A1?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/C-FFDDD2?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-E0FBFC?style=for-the-badge&logo=c&logoColor=white"></p><br>
+        <img src="https://img.shields.io/badge/C++-B4B4FF?style=for-the-badge&logo=Cplusplus&logoColor=white"></p><br>
                                                                                                        
 <p align="center">
      -Sub Stacks-
