@@ -28,7 +28,8 @@
 <p align="center" display="inline-block">
         <img src="https://img.shields.io/badge/React-03045E?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=white">   
-        <img src="https://img.shields.io/badge/CSS-00B4D8?style=for-the-badge&logo=CSS&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-00B4D8?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Unity-A9A9A9?style=for-the-badge&logo=Unity&logoColor=white">    
 </p>
 <!--
 
