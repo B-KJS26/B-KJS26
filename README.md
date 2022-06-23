@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KJS's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome My GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KJS's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <p align="center">
     <Strong>My Blog</Strong><br><br>
