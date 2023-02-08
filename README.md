@@ -17,15 +17,13 @@
    </p>
     <p align="center" display="inline-block">
         <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=white">  
-        <img src="https://img.shields.io/badge/React-03045E?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Flutter-A8DAF9?style=for-the-badge&logo=Flutter&logoColor="white">                                                                                  
+        <img src="https://img.shields.io/badge/React-03045E?style=for-the-badge&logo=React&logoColor=white">                                                                              
 <p align="center">
      -Sub Stacks-
 </p>
                      
 <p align="center" display="inline-block">
-        <img src="https://img.shields.io/badge/CSS-00B4D8?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Unity-A9A9A9?style=for-the-badge&logo=Unity&logoColor=white">    
+        <img src="https://img.shields.io/badge/Flutter-A8DAF9?style=for-the-badge&logo=Flutter&logoColor="white">   
 </p>
 <!--
 
