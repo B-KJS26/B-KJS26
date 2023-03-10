@@ -2,7 +2,7 @@
 
 <p align="center">
     <Strong>My Blog</Strong><br><br>
-    <a href="https://velog.io/@digyrh456789" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=plastic&logo=Velog&logoColor=#20C997"/></a>
+    <a href="https://velog.io/@digyrh456789" target="_blank"><img src="https://img.shields.io/badge/Velog?style=plastic&logo=velog&logoColor=ffffff"/></a>
     </a>
     <br>
 <Strong>📧Email</Strong><br>digyrh456789@gmail.com<br>
