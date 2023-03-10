@@ -2,8 +2,7 @@
 
 <p align="center">
     <Strong>My Blog</Strong><br><br>
-    <a href="https://developersodablog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Blogger&logoColor=white"/>
-    <a href="https://developersodablog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=naver&logoColor=white"/>
+    <a href="https://velog.io/@digyrh456789" target="_blank"><img src="https://img.shields.io/badge/Velog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/>
     </a>
     <br>
 <Strong>📧Email</Strong><br>digyrh456789@gmail.com<br>
